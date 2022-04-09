@@ -1,0 +1,19 @@
+p {
+    font-family: 'Times New Roman', Times, serif
+}
+
+img {
+    width: 50%;
+}
+
+.center {
+    text-align: center;
+}
+
+.centerUrl {
+    text-align: center;
+    display: block;
+    font-size: 15px;
+    text-decoration: underline;
+}
+/* Need 4 inside style sheet here */

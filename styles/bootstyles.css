@@ -1,0 +1,55 @@
+.header {
+    height: 100px;
+    background-color: lightgray;
+    line-height: 100px;
+}
+.footer {
+    height: 100px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.common {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header a {
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+    margin: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a:hover {
+    color: grey;
+}
+
+a {
+    color: white;
+}
+
+.tableauContainer {
+    display: flex;
+}
+.tableauElement {
+    border: 2px;
+    width: 50%;
+    margin: 30px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+.description {
+    background-color: white;
+    padding: 10px;
+}
